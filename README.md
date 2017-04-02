@@ -1,4 +1,4 @@
-# vue
+# Quotes App
 
 > A Vue.js project
 
